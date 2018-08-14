@@ -1,2 +1,2 @@
 # EnergyReporter
-Report applications energy usage
+Reports applications energy usage

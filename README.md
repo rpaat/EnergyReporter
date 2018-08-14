@@ -1,2 +1,2 @@
 # EnergyReporter
-Generates report about application energy usage
+Report applications energy usage
